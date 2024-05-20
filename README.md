@@ -6,7 +6,6 @@ I'm a passionate Vue.js developer and Shopify Full Stack developer with expertis
 
 - 🔭 I’m currently working on enhancing my Vue.js skills and exploring advanced techniques in Shopify development.
 - 🌱 I’m continuously learning and experimenting with new technologies to stay updated in the rapidly evolving web development landscape.
-- 💼 Open to freelance opportunities and collaboration projects.
 
 ## Tech Stack
 
