@@ -24,4 +24,4 @@ I'm a passionate Vue.js developer and Shopify Full Stack developer with expertis
 
 - Traveling ✈️
 - PC Gaming 🎮
-\
+
