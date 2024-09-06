@@ -24,13 +24,4 @@ I'm a passionate Vue.js developer and Shopify Full Stack developer with expertis
 
 - Traveling ✈️
 - PC Gaming 🎮
-
-## Get in Touch
-
-- Personal Website: [saadullahsajid.com](https://www.saadullahsajid.com/)
-- LinkedIn: [Saad Ullah Sajid](https://www.linkedin.com/in/saad-ullah-sajid-301173166/)
-- Instagram: [@saad.s2809](https://www.instagram.com/saad.s2809)
-- Facebook: [Saad Ullah Sajid](https://www.linkedin.com/feed/)
-- Email: [saad.sajid@c2-digital.com](mailto:saad.sajid@c2-digital.com)
-
-Feel free to reach out to me if you have any questions, collaboration ideas, or just want to connect! 😊
+\
