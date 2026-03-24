@@ -1,6 +1,6 @@
 # Hi there, I'm Saad Ullah Sajid! 👋
 
-I'm a passionate Vue.js developer and Shopify Full Stack developer with expertise in various web technologies. Currently, I work at C2 Digital, where I specialize in Vue.js, JavaScript, jQuery, HTML, CSS, Vuetify, Firebase, Shopify Theme development, Shopify app development with Vue.js, and animations using GSAP and Three.js.
+I'm a passionate Vue.js developer and Shopify Full Stack developer with expertise in various web technologies. I specialize in Vue.js, JavaScript, jQuery, HTML, CSS, Vuetify, Firebase, Shopify Theme development, Shopify app development with Vue.js, and animations using GSAP and Three.js.
 
 ## About Me
 
